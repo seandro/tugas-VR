@@ -1,0 +1,11 @@
+Model Information:
+* title:	Big Chungus
+* source:	https://sketchfab.com/3d-models/big-chungus-7f6c1648e48a4c05b68a66fb55b26ee5
+* author:	ivan.vladimirov08 (https://sketchfab.com/ivan.vladimirov08)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Big Chungus" (https://sketchfab.com/3d-models/big-chungus-7f6c1648e48a4c05b68a66fb55b26ee5) by ivan.vladimirov08 (https://sketchfab.com/ivan.vladimirov08) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

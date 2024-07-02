@@ -1,0 +1,479 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 8716,
+      "max": [
+        2.3274922370910645,
+        9.40771484375,
+        7.138189792633057
+      ],
+      "min": [
+        -2.389946937561035,
+        2.394218921661377,
+        5.920450210571289
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 104592,
+      "componentType": 5126,
+      "count": 8716,
+      "max": [
+        0.9999449253082275,
+        0.9999996423721313,
+        0.999984622001648
+      ],
+      "min": [
+        -0.9999299645423889,
+        -0.9998683929443359,
+        -0.9999789595603943
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 8716,
+      "max": [
+        0.9990000128746033,
+        0.9945244789123535
+      ],
+      "min": [
+        0.0010000000474974513,
+        0.0010000000474974513
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 22248,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 209184,
+      "componentType": 5126,
+      "count": 9040,
+      "max": [
+        2.3668155670166016,
+        9.4470853805542,
+        7.177411079406738
+      ],
+      "min": [
+        -2.4292304515838623,
+        2.355563163757324,
+        5.882463455200195
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 317664,
+      "componentType": 5126,
+      "count": 9040,
+      "max": [
+        0.9999299645423889,
+        0.9998683929443359,
+        0.9999789595603943
+      ],
+      "min": [
+        -0.9999449253082275,
+        -0.9999996423721313,
+        -0.999984622001648
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 69728,
+      "componentType": 5126,
+      "count": 9040,
+      "max": [
+        0.9990000128746033,
+        0.9945244789123535
+      ],
+      "min": [
+        0.0010000000474974513,
+        0.0010000000474974513
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 88992,
+      "componentType": 5125,
+      "count": 22728,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 426144,
+      "componentType": 5126,
+      "count": 128,
+      "max": [
+        30.931243896484375,
+        37.39409637451172,
+        2.113072014253703e-06
+      ],
+      "min": [
+        -28.190853118896484,
+        -43.788265228271484,
+        -24.615190505981445
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 427680,
+      "componentType": 5126,
+      "count": 128,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 142048,
+      "componentType": 5126,
+      "count": 128,
+      "max": [
+        0.8324534893035889,
+        0.998654305934906
+      ],
+      "min": [
+        0.0014086822047829628,
+        0.0013460670597851276
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 179904,
+      "componentType": 5125,
+      "count": 180,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "PaulinDelgadillo (https://sketchfab.com/PaulinDELRawr)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/bold-brash-fuerte-hermosura-by-squidward-q-016d44db40ae41bd8f6358801a2677d6",
+      "title": "Bold & Brash / Fuerte Hermosura by Squidward Q."
+    },
+    "generator": "Sketchfab-12.68.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 180624,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 143072,
+      "byteOffset": 180624,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 429216,
+      "byteOffset": 323696,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 752912,
+      "uri": "scene.bin"
+    }
+  ],
+  "extensionsUsed": [
+    "KHR_materials_unlit"
+  ],
+  "images": [
+    {
+      "uri": "textures/Plane001__0_baseColor.png"
+    },
+    {
+      "uri": "textures/MAT_FuerteHermosura_baseColor.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_unlit": {}
+      },
+      "name": "Plane001__0",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0
+      }
+    },
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_unlit": {}
+      },
+      "name": "MAT_FuerteHermosura",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 1
+        },
+        "metallicFactor": 0.0
+      }
+    },
+    {
+      "extensions": {
+        "KHR_materials_unlit": {}
+      },
+      "name": "MAT_Outline",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0,
+          0.07058819999999999,
+          0.028649447002744986,
+          1.0
+        ],
+        "metallicFactor": 0.0
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "G_FuerteH_MAT_FuerteHermosura_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "G_Outline_MAT_Outline_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Plane001__0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "859e829cfd584875baa02edfa237e1dd.fbx"
+    },
+    {
+      "children": [
+        3,
+        5,
+        7
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        8.301224708557129,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        8.301224708557019,
+        1.35244124671855e-06,
+        0.0,
+        0.0,
+        -1.35244124671855e-06,
+        8.301224708557019,
+        0.0,
+        0.0696624219417572,
+        -12.414691925048828,
+        -14.571036338806152,
+        1.0
+      ],
+      "name": "G_FuerteH"
+    },
+    {
+      "mesh": 0,
+      "name": "G_FuerteH_MAT_FuerteHermosura_0"
+    },
+    {
+      "children": [
+        6
+      ],
+      "matrix": [
+        8.301224708557129,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        8.301224708557019,
+        1.35244124671855e-06,
+        0.0,
+        0.0,
+        -1.35244124671855e-06,
+        8.301224708557019,
+        0.0,
+        0.0696624219417572,
+        -12.414691925048828,
+        -14.571036338806152,
+        1.0
+      ],
+      "name": "G_Outline"
+    },
+    {
+      "mesh": 1,
+      "name": "G_Outline_MAT_Outline_0"
+    },
+    {
+      "children": [
+        8
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.9999999999999867,
+        1.6292068494294582e-07,
+        0.0,
+        0.0,
+        -1.6292068494294582e-07,
+        0.9999999999999867,
+        0.0,
+        -0.4276590347290039,
+        41.65667724609375,
+        27.71924591064453,
+        1.0
+      ],
+      "name": "Plane001"
+    },
+    {
+      "mesh": 2,
+      "name": "Plane001__0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    }
+  ]
+}
