@@ -1,6 +1,6 @@
-# Project Augmented Reality
+# Project Virtual Reality, Tourj Mahal (Taj Mahal Virtual Tour)
 
-Selamat datang di repository proyek Augmented Reality! Ini adalah Image Tracking, salah satu teknik kunci dalam teknologi AR. Teknik ini memungkinkan perangkat AR untuk mengenali dan melacak gambar tertentu di dunia nyata, kemudian menambahkan elemen digital di atas gambar tersebut. Dengan Image Tracking, perangkat AR dapat mendeteksi pola atau fitur unik dari gambar yang telah diprogram sebelumnya, memproses informasi tersebut, dan menambahkan konten digital secara akurat di lokasi yang tepat.
+Selamat datang di repository proyek Virtual Reality! Virtual Tour adalah simulasi lokasi yang ada, biasanya terdiri dari rangkaian video, gambar diam, atau gambar 360 derajat. Mungkin juga menggunakan elemen multimedia lainnya seperti efek suara, musik, narasi, teks dan peta lantai. Hal ini dibedakan dari penggunaan siaran langsung televisi untuk mempengaruhi tele-pariwisata
 
 ## Kode QR
 <p align="center">
@@ -9,8 +9,14 @@ Selamat datang di repository proyek Augmented Reality! Ini adalah Image Tracking
   </a>
 </p>
 
-
-
+## Cara menggunakan
+  <ul>
+            <li>Tekan Link atau scan code QR untuk memasuki website Tourj Mahal</li>
+            <li>Tekan tombol "Mulai Tour" di tengah halaman atau tombol "Tour" di posok kanan atas layar untuk memulai tour</li>
+            <li>Gunakan mouse atau swipe layar handphone anda untuk mengubah view dari tour virtual</li>
+            <li>Tekan kotak berwarna abu-abu di layar untuk "berjalan" atau mengubah point of view dari tour virtual</li>
+            <li>Nikmati tour virtual di Taj Mahal</li>
+  </ul>
 ## Preview
 Berikut adalah beberapa contoh dari model yang ditampilkan:
 
