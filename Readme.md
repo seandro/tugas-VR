@@ -17,8 +17,9 @@ Selamat datang di repository proyek Virtual Reality! Virtual Tour adalah simulas
             <li>Tekan kotak berwarna abu-abu di layar untuk "berjalan" atau mengubah point of view dari tour virtual</li>
             <li>Nikmati tour virtual di Taj Mahal</li>
   </ul>
+  
 ## Preview
-Berikut adalah beberapa contoh dari model yang ditampilkan:
+Berikut adalah beberapa preview dari isi Website:
 
 ### Model 1
 <p align="center">
