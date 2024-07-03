@@ -4,38 +4,36 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="initial-scale=1.0,user-scalable=no,maximum-scale=1,width=device-width">
-    <title>kucing ngeeenggg</title>
+    <title>Tourj Mahal</title>
     <script src="https://aframe.io/releases/0.9.2/aframe.min.js"></script>
     <script src="//cdn.rawgit.com/donmccurdy/aframe-extras/v6.0.0/dist/aframe-extras.min.js"></script>
     <script src="//cdn.rawgit.com/donmccurdy/aframe-physics-system/v4.0.0/dist/aframe-physics-system.min.js"></script>
     <script src="https://unpkg.com/super-hands@3.0.0/dist/super-hands.min.js"></script>
     <script src="https://unpkg.com/aframe-physics-extras@0.1.2/dist/aframe-physics-extras.min.js"></script>
     <style>
-        #UI {
-            display: block;
-            width: 10rem;
-            height: 2rem;
-            position: fixed;
-            bottom: 1rem;
-            left: 1rem;
-            position: absolute;
-            border-radius: 4px;
-            border: none;
-            width: 8em;
-            height: 4em;
-            background: #1bbd36;
-            color: #fff;
-            justify-content: center;
-            align-items: center;
-        }
+        #UI {position: absolute;
+                width: 100%;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                padding: 0.25em;
+                border-radius: 4px;
+                border: none;
+                width: 6em;
+                height: 3em;
+                background: #1bbd36;
+                color: #fff;
+                bottom: 2em;
+                left: 2em;}
     </style>
 </head>
 
 <body>
     <a-scene physics>
         <a-entity id="mouseCursor" cursor="rayOrigin: mouse" raycaster="objects: #plane"></a-entity>
-                
-                <a-entity link="href: index1.html" id="plane" geometry="primitive: plane" material="color: gray; opacity: 0.4; transparent: true" position="0 1.8 -6" rotation="0 0 0"></a-entity>
+                <a-entity link="href: index1.html" id="plane" geometry="primitive: plane" material="opacity: 0.4; transparent: true" position="0 1.8 5" rotation="180 0 0" 
+                animation__mouseenter="property: components.material.material.color; type: color; from: gray; to: white; startEvents: mouseenter; dur: 50"
+                animation__mouseleave="property: components.material.material.color; type: color; from: white; to: gray; startEvents: mouseleave; dur: 50"></a-entity>
         <a-assets>
             <img id="bg" src="360/TM0.jpg">
             
